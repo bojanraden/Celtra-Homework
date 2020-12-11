@@ -12,7 +12,7 @@ I was able to get the element's on the initial page (page with Expandable banner
 For the android project I have used my actual phone LG G7 + chromedriver, and for the iOS project I used a simulator iPhone 8 plus where I had to implement a "SafariLauncher.app", in order to launch Safari.
 
 Project structure:
-![project structure](https://drive.google.com/file/d/1CGQ6SzpAAzzGipmuoBEgwAdO-Arwb-c0/view?usp=sharing)
+![project structure](https://i.ibb.co/CH5Rk7V/Screenshot-2020-12-11-at-10-28-42-PM.png)
 Both android and iOS files are located in the test folder, under appropriate packages.
 
 I have ran them only through the IDE.
